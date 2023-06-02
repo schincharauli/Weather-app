@@ -1,5 +1,15 @@
-# Weather-app
+## Table of contents
 
-view full project on https://xenodochial-ritchie-a5c648.netlify.app/
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
 
-for search use first capital letter
+### Screenshot
+
+![](./assets/Screenshot%202023-06-02%20at%2008.20.31.png)
+
+### Links
+
+- Solution URL: - https://github.com/schincharauli/Weather-app
+- Live Site URL: - https://xenodochial-ritchie-a5c648.netlify.app/
